@@ -1,7 +1,6 @@
 import './App.css'
-import CardDiv from './components/CardDiv';
 import Characters from './pages/characters'
-// import { fetchData } from './components/api'
+import CardDiv from './components/CardDiv';
 function App() {
  
 

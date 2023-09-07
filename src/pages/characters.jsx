@@ -50,4 +50,11 @@ function Characters() {
     );
 }
 
+//? export const charactersData = [{
+//         id: 1,
+//         name:()
+// }
+
+// ]
+
 export default Characters;
