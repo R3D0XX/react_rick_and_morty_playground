@@ -1,24 +1,11 @@
-import './App.css'
-import Characters from './pages/characters'
-import CardDiv from './components/CardDiv';
+import "./App.css";
+import Characters from "./pages/Characters";
 function App() {
- 
-
-
-
-
   return (
-    <div>
-      <h1></h1>
+    <>
       <Characters />
-      <CardDiv/>
-
-
-
-
-
-    </div>
+    </>
   );
 }
 
-export default App
+export default App;
